@@ -1,178 +1,53 @@
----
-title: Previous Releases
-author: molly.waggett
-email: molly.waggett@puppet.com
-created: '1334337660'
-changed: '1564508014'
-status: true
-id: '25204'
-format: raw_with_line_breaks
-original_path: /misc/pe-files/previous-releases
----
-<p>Download an older version of Puppet Enterprise below or get the <a href="/download-puppet-enterprise">latest version</a>. Please note that tarballs specific to your operating system are much smaller than the generic *nix tarball, and that the separate Windows MSI package is only available for versions 2.5 and above.</p>
 
+<p>Download an older version of Puppet Enterprise below or get the <a href="https://puppet.com/download-puppet-enterprise">latest version</a>. Please note that tarballs specific to your operating system are much smaller than the generic *nix tarball, and that the separate Windows MSI package is only available for versions 2.5 and above.</p>
 <p>For information on installing and using Puppet Enterprise, please see the <a href="http://docs.puppetlabs.com/pe/latest/quick_start.html">Puppet Enterprise Quick Start Guide</a>.</p>
-
-<p>By clicking on any of these links, you agree to the terms of the Puppet Enterprise license agreement. You can manage ten (10) nodes for free. If you need to license more nodes please <a href="/contact-sales">contact sales</a> or visit our <a href="/products/pricing">Pricing</a> page.</p>
-
+<p>By clicking on any of these links, you agree to the terms of the Puppet Enterprise license agreement. You can manage ten (10) nodes for free. If you need to license more nodes please <a href="https://puppet.com/contact-sales">contact sales</a> or visit our <a href="https://puppet.com/products/pricing">Pricing</a> page.</p>
 <p><b>Note:</b> These releases of Puppet Enterprise have been superseded and may contain known bugs or security issues. They are provided here for archival purposes.</p>
-
 
 
 <h1>Older Releases:</h1>
 
-<h2 id="pe_201910"><a href="/misc/pe-files/previous-releases/2019.1.0">Puppet Enterprise 2019.1.0</a></h2>
 
-<h2 id="pe_201904"><a href="/misc/pe-files/previous-releases/2019.0.4">Puppet Enterprise 2019.0.4</a></h2>
-
-<h2 id="pe_201819"><a href="/misc/pe-files/previous-releases/2018.1.9">Puppet Enterprise 2018.1.9 - Long Term Supported Release</a></h2>
-
-<h2 id="pe_201903"><a href="/misc/pe-files/previous-releases/2019.0.3">Puppet Enterprise 2019.0.3</a></h2>
-
-<h2 id="pe_201902"><a href="/misc/pe-files/previous-releases/2019.0.2">Puppet Enterprise 2019.0.2</a></h2>
-
-<h2 id="pe_201901"><a href="/misc/pe-files/previous-releases/2019.0.1">Puppet Enterprise 2019.0.1</a></h2>
-
-<h2 id="pe_201818"><a href="/misc/pe-files/previous-releases/2018.1.8">Puppet Enterprise 2018.1.8 - Long Term Supported Release</a></h2>
-
-<h2 id="pe_201817"><a href="/misc/pe-files/previous-releases/2018.1.7">Puppet Enterprise 2018.1.7 - Long Term Supported Release</a></h2>
-
-<h2 id="pe_201900"><a href="/misc/pe-files/previous-releases/2019.0.0">Puppet Enterprise 2019.0.0</a></h2>
-
-<h2 id="pe_201815"><a href="/misc/pe-files/previous-releases/2018.1.5">Puppet Enterprise 2018.1.5 - Long Term Supported Release</a></h2>
-
-<h2 id="pe_201814"><a href="/misc/pe-files/previous-releases/2018.1.4">Puppet Enterprise 2018.1.4 - Long Term Supported Release</a></h2>
-
-<h2 id="pe_201813"><a href="/misc/pe-files/previous-releases/2018.1.3">Puppet Enterprise 2018.1.3 - Long Term Supported Release</a></h2>
-
-<h2 id="pe_2017310"><a href="/misc/pe-files/previous-releases/2017.3.10">Puppet Enterprise 2017.3.10</a></h2>
-
-<h2 id="pe_2016415"><a href="/misc/pe-files/previous-releases/2016.4.15">Puppet Enterprise 2016.4.15 - Long Term Supported Release (EOL 2018-12-31)</a></h2>
-
-<h2 id="pe_201812"><a href="/misc/pe-files/previous-releases/2018.1.2">Puppet Enterprise 2018.1.2 - Long Term Supported Release</a></h2>
-
-<h2 id="pe_201739"><a href="/misc/pe-files/previous-releases/2017.3.9">Puppet Enterprise 2017.3.9</a></h2>
-
-<h2 id="pe_2016414"><a href="/misc/pe-files/previous-releases/2016.4.14">Puppet Enterprise 2016.4.14 - Long Term Supported Release</a></h2>
-
-<h2 id="pe_201738"><a href="/misc/pe-files/previous-releases/2017.3.8">Puppet Enterprise 2017.3.8</a></h2>
-
-<h2 id="pe_2016413"><a href="/misc/pe-files/previous-releases/2016.4.13">Puppet Enterprise 2016.4.13 - Long Term Supported Release</a></h2>
-
-<h2 id="pe_201810"><a href="/misc/pe-files/previous-releases/2018.1.0">Puppet Enterprise 2018.1.0 - Long Term Supported Release</a></h2>
-
-<h2 id="pe_201737"><a href="/misc/pe-files/previous-releases/2017.3.7">Puppet Enterprise 2017.3.7</a></h2>
-
-<h2 id="pe_2016412"><a href="/misc/pe-files/previous-releases/2016.4.12">Puppet Enterprise 2016.4.12 - Long Term Supported Release</a></h2>
-
-<h2 id="pe_201736"><a href="/misc/pe-files/previous-releases/2017.3.6">Puppet Enterprise 2017.3.6</a></h2>
-
-<h2 id="pe_2016411"><a href="/misc/pe-files/previous-releases/2016.4.11">Puppet Enterprise 2016.4.11 - Long Term Supported Release</a></h2>
-
-<h2 id="pe_201735"><a href="/misc/pe-files/previous-releases/2017.3.5">Puppet Enterprise 2017.3.5</a></h2>
-
-<h2 id="pe_201734"><a href="/misc/pe-files/previous-releases/2017.3.4">Puppet Enterprise 2017.3.4</a></h2>
-
-<h2 id="pe_2016410"><a href="/misc/pe-files/previous-releases/2016.4.10">Puppet Enterprise 2016.4.10 - Long Term Supported Release</a></h2>
-
-<h2 id="pe_201732"><a href="/misc/pe-files/previous-releases/2017.3.2">Puppet Enterprise 2017.3.2</a></h2>
-
-<h2 id="pe_201649"><a href="/misc/pe-files/previous-releases/2016.4.9">Puppet Enterprise 2016.4.9 - Long Term Supported Release</a></h2>
-
-<h2 id="pe_201725"><a href="/misc/pe-files/previous-releases/2017.2.5">Puppet Enterprise 2017.2.5</a></h2>
-
-<h2 id="pe_201731"><a href="/misc/pe-files/previous-releases/2017.3.1">Puppet Enterprise 2017.3.1</a></h2>
-
-<h2 id="pe_201732"><a href="/misc/pe-files/previous-releases/2017.3.0">Puppet Enterprise 2017.3.0</a></h2>
-
-<h2 id="pe_201724"><a href="/misc/pe-files/previous-releases/2017.2.4">Puppet Enterprise 2017.2.4</a></h2>
-
-<h2 id="pe_201723"><a href="/misc/pe-files/previous-releases/2017.2.3">Puppet Enterprise 2017.2.3</a></h2>
-
-<h2 id="pe_201648"><a href="/misc/pe-files/previous-releases/2016.4.8">Puppet Enterprise 2016.4.8 - Long Term Supported Release</a></h2>
-
-<h2 id="pe_201722"><a href="/misc/pe-files/previous-releases/2017.2.2">Puppet Enterprise 2017.2.2</a></h2>
-
-<h2 id="pe_201647"><a href="/misc/pe-files/previous-releases/2016.4.7">Puppet Enterprise 2016.4.7 - Long Term Supported Release</a></h2>
-
-<h2 id="pe_201721"><a href="/misc/pe-files/previous-releases/2017.2.1">Puppet Enterprise 2017.2.1</a></h2>
-
-<h2 id="pe_201646"><a href="/misc/pe-files/previous-releases/2016.4.6">Puppet Enterprise 2016.4.6 - Long Term Supported Release</a></h2>
-
-<h2 id="pe_201645"><a href="/misc/pe-files/previous-releases/2016.4.5">Puppet Enterprise 2016.4.5 - Long Term Supported Release</a></h2>
-
-<h2 id="pe_201711"><a href="/misc/pe-files/previous-releases/2017.1.1">Puppet Enterprise 2017.1.1</a></h2>
-
-<h2 id="pe_201710"><a href="/misc/pe-files/previous-releases/2017.1.0">Puppet Enterprise 2017.1.0</a></h2>
-
-<h2 id="pe_201652"><a href="/misc/pe-files/previous-releases/2016.5.2">Puppet Enterprise 2016.5.2</a></h2>
-
-<h2 id="pe_201643"><a href="/misc/pe-files/previous-releases/2016.4.3">Puppet Enterprise 2016.4.3 - Long Term Supported Release</a></h2>
-
-<h2 id="pe_201651"><a href="/misc/pe-files/previous-releases/2016.5.1">Puppet Enterprise 2016.5.1</a></h2>
-
-<h2 id="pe_201642"><a href="/misc/pe-files/previous-releases/2016.4.2">Puppet Enterprise 2016.4.2 - Long Term Supported Release</a></h2>
-
-<h2 id="pe_201640"><a href="/misc/pe-files/previous-releases/2016.4.0">Puppet Enterprise 2016.4.0</a></h2>
-
-<h2 id="pe_201620"><a href="/misc/pe-files/previous-releases/2016.2.1">Puppet Enterprise 2016.2.1</a></h2>
-
-<h2 id="pe_201620"><a href="/misc/pe-files/previous-releases/2016.2.0">Puppet Enterprise 2016.2.0</a></h2>
-
-<h2 id="pe_201612"><a href="/misc/pe-files/previous-releases/2016.1.2">Puppet Enterprise 2016.1.2</a></h2>
-
-<h2 id="pe_201611"><a href="/misc/pe-files/previous-releases/2016.1.1">Puppet Enterprise 2016.1.1</a></h2>
-
-<h2 id="pe_201533"><a href="/misc/pe-files/previous-releases/2015.3.3">Puppet Enterprise 2015.3.3</a></h2>
-
-<h2 id="pe_201532"><a href="/misc/pe-files/previous-releases/2015.3.2">Puppet Enterprise 2015.3.2</a></h2>
-
-<h2 id="pe_201531"><a href="/misc/pe-files/previous-releases/2015.3.1">Puppet Enterprise 2015.3.1</a></h2>
-
-<h2 id="pe_201523"><a href="/misc/pe-files/previous-releases/2015.2.3">Puppet Enterprise 2015.2.3</a></h2>
-
-<h2 id="pe_201522"><a href="/misc/pe-files/previous-releases/2015.2.2">Puppet Enterprise 2015.2.2</a></h2>
-
-<h2 id="pe_201521"><a href="/misc/pe-files/previous-releases/2015.2.1">Puppet Enterprise 2015.2.1</a></h2>
-
-<h2 id="pe_201520"><a href="/misc/pe-files/previous-releases/2015.2.0">Puppet Enterprise 2015.2.0</a></h2>
-
-<h2 id="pe_387"><a href="/misc/pe-files/previous-releases/3.8.7">Puppet Enterprise 3.8.7</a></h2>
-
-<h2 id="pe_386"><a href="/misc/pe-files/previous-releases/3.8.6">Puppet Enterprise 3.8.6</a></h2>
-
-<h2 id="pe_385"><a href="/misc/pe-files/previous-releases/3.8.5">Puppet Enterprise 3.8.5</a></h2>
-
-<h2 id="pe_384"><a href="/misc/pe-files/previous-releases/3.8.4">Puppet Enterprise 3.8.4</a></h2>
-
-<h2 id="pe_383"><a href="/misc/pe-files/previous-releases/3.8.3">Puppet Enterprise 3.8.3</a></h2>
-
-<h2 id="pe_382"><a href="/misc/pe-files/previous-releases/3.8.2">Puppet Enterprise 3.8.2</a></h2>
-
-<h2 id="pe_381"><a href="/misc/pe-files/previous-releases/3.8.1">Puppet Enterprise 3.8.1</a></h2>
-
-<h2 id="pe_380"><a href="/misc/pe-files/previous-releases/3.8.0">Puppet Enterprise 3.8.0</a></h2>
-
-<h2 id="pe_372"><a href="/misc/pe-files/previous-releases/3.7.2">Puppet Enterprise 3.7.2</a></h2>
-
-<h2 id="pe_371"><a href="/misc/pe-files/previous-releases/3.7.1">Puppet Enterprise 3.7.1</a></h2>
-
-<h2 id="pe_370"><a href="/misc/pe-files/previous-releases/3.7.0">Puppet Enterprise 3.7.0</a></h2>
-
-<h2 id="pe_332"><a href="/misc/pe-files/previous-releases/3.3.2">Puppet Enterprise 3.3.2</a></h2>
-
-<h2 id="pe_331"><a href="/misc/pe-files/previous-releases/3.3.1">Puppet Enterprise 3.3.1</a></h2>
-
-<h2 id="pe_330"><a href="/misc/pe-files/previous-releases/3.3.0">Puppet Enterprise 3.3.0</a></h2>
-
-<h2 id="pe_323"><a href="/misc/pe-files/previous-releases/3.2.3">Puppet Enterprise 3.2.3</a></h2>
-
-<h2 id="pe_322"><a href="/misc/pe-files/previous-releases/3.2.2">Puppet Enterprise 3.2.2</a></h2>
-
-<h2 id="pe_321"><a href="/misc/pe-files/previous-releases/3.2.1">Puppet Enterprise 3.2.1</a></h2>
-
-<h2 id="pe_320"><a href="/misc/pe-files/previous-releases/3.2.0">Puppet Enterprise 3.2.0</a></h2>
-
+<h2 id="pe_201725"><a href="previous-releases/2017.2.5">Puppet Enterprise 2017.2.5</a></h2>
+<h2 id="pe_201721"><a href="previous-releases/2017.2.1">Puppet Enterprise 2017.2.1</a></h2>
+<h2 id="pe_201646"><a href="previous-releases/2016.4.6">Puppet Enterprise 2016.4.6 - Long Term Supported Release</a></h2>
+<h2 id="pe_201645"><a href="previous-releases/2016.4.5">Puppet Enterprise 2016.4.5 - Long Term Supported Release</a></h2>
+<h2 id="pe_201711"><a href="previous-releases/2017.1.1">Puppet Enterprise 2017.1.1</a></h2>
+<h2 id="pe_201710"><a href="previous-releases/2017.1.0">Puppet Enterprise 2017.1.0</a></h2>
+<h2 id="pe_201652"><a href="previous-releases/2016.5.2">Puppet Enterprise 2016.5.2</a></h2>
+<h2 id="pe_201643"><a href="previous-releases/2016.4.3">Puppet Enterprise 2016.4.3 - Long Term Supported Release</a></h2>
+<h2 id="pe_201651"><a href="previous-releases/2016.5.1">Puppet Enterprise 2016.5.1</a></h2>
+<h2 id="pe_201642"><a href="previous-releases/2016.4.2">Puppet Enterprise 2016.4.2 - Long Term Supported Release</a></h2>
+<h2 id="pe_201640"><a href="previous-releases/2016.4.0">Puppet Enterprise 2016.4.0</a></h2>
+<h2 id="pe_201620"><a href="previous-releases/2016.2.1">Puppet Enterprise 2016.2.1</a></h2>
+<h2 id="pe_201620"><a href="previous-releases/2016.2.0">Puppet Enterprise 2016.2.0</a></h2>
+<h2 id="pe_201612"><a href="previous-releases/2016.1.2">Puppet Enterprise 2016.1.2</a></h2>
+<h2 id="pe_201611"><a href="previous-releases/2016.1.1">Puppet Enterprise 2016.1.1</a></h2>
+<h2 id="pe_201533"><a href="previous-releases/2015.3.3">Puppet Enterprise 2015.3.3</a></h2>
+<h2 id="pe_201532"><a href="previous-releases/2015.3.2">Puppet Enterprise 2015.3.2</a></h2>
+<h2 id="pe_201531"><a href="previous-releases/2015.3.1">Puppet Enterprise 2015.3.1</a></h2>
+<h2 id="pe_201523"><a href="previous-releases/2015.2.3">Puppet Enterprise 2015.2.3</a></h2>
+<h2 id="pe_201522"><a href="previous-releases/2015.2.2">Puppet Enterprise 2015.2.2</a></h2>
+<h2 id="pe_201521"><a href="previous-releases/2015.2.1">Puppet Enterprise 2015.2.1</a></h2>
+<h2 id="pe_201520"><a href="previous-releases/2015.2.0">Puppet Enterprise 2015.2.0</a></h2>
+<h2 id="pe_387"><a href="previous-releases/3.8.7">Puppet Enterprise 3.8.7</a></h2>
+<h2 id="pe_386"><a href="previous-releases/3.8.6">Puppet Enterprise 3.8.6</a></h2>
+<h2 id="pe_385"><a href="previous-releases/3.8.5">Puppet Enterprise 3.8.5</a></h2>
+<h2 id="pe_384"><a href="previous-releases/3.8.4">Puppet Enterprise 3.8.4</a></h2>
+<h2 id="pe_383"><a href="previous-releases/3.8.3">Puppet Enterprise 3.8.3</a></h2>
+<h2 id="pe_382"><a href="previous-releases/3.8.2">Puppet Enterprise 3.8.2</a></h2>
+<h2 id="pe_381"><a href="previous-releases/3.8.1">Puppet Enterprise 3.8.1</a></h2>
+<h2 id="pe_380"><a href="previous-releases/3.8.0">Puppet Enterprise 3.8.0</a></h2>
+<h2 id="pe_372"><a href="previous-releases/3.7.2">Puppet Enterprise 3.7.2</a></h2>
+<h2 id="pe_371"><a href="previous-releases/3.7.1">Puppet Enterprise 3.7.1</a></h2>
+<h2 id="pe_370"><a href="previous-releases/3.7.0">Puppet Enterprise 3.7.0</a></h2>
+<h2 id="pe_332"><a href="previous-releases/3.3.2">Puppet Enterprise 3.3.2</a></h2>
+<h2 id="pe_331"><a href="previous-releases/3.3.1">Puppet Enterprise 3.3.1</a></h2>
+<h2 id="pe_330"><a href="previous-releases/3.3.0">Puppet Enterprise 3.3.0</a></h2>
+<h2 id="pe_323"><a href="previous-releases/3.2.3">Puppet Enterprise 3.2.3</a></h2>
+<h2 id="pe_322"><a href="previous-releases/3.2.2">Puppet Enterprise 3.2.2</a></h2>
+<h2 id="pe_321"><a href="previous-releases/3.2.1">Puppet Enterprise 3.2.1</a></h2>
+<h2 id="pe_320"><a href="previous-releases/3.2.0">Puppet Enterprise 3.2.0</a></h2>
 <h2 id="pe_313">Puppet Enterprise 3.1.3</h2>
 <table>
 <tbody>
@@ -287,7 +162,6 @@ original_path: /misc/pe-files/previous-releases
 <td>32-bit/<br>64-bit</td>
 <td><a href="http://pm.puppetlabs.com/puppet-enterprise/3.1.3/puppet-enterprise-3.1.3.msi">Download Now</a> | (Signed Package)</td>
 </tr>
-
 </tbody>
 </table>
 
